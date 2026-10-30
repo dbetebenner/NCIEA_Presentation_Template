@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Figure placeholder">
+  <rect x="0" y="0" width="640" height="360" fill="rgb(237,237,235)"/>
+  <rect x="8" y="8" width="624" height="344" fill="none" stroke="#3498DB" stroke-width="2" stroke-dasharray="8 8" rx="8"/>
+  <circle cx="320" cy="150" r="46" fill="none" stroke="#7c7c7c" stroke-width="3"/>
+  <path d="M300 150 l14 14 l26 -34" fill="none" stroke="#3498DB" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="320" y="250" text-anchor="middle" font-family="'Josefin Sans',sans-serif" font-size="26" fill="rgb(20,20,16)">Your figure here</text>
+  <text x="320" y="284" text-anchor="middle" font-family="'Noto Sans',sans-serif" font-size="16" fill="#7c7c7c">Drop an SVG or PNG into Figures/</text>
+</svg>
