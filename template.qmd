@@ -7,7 +7,7 @@ author:
 date: "{{DATE}}"
 date-format: "[{{VENUE}} · ]MMMM YYYY"
 # ==============================================================================
-# NCIEA PRESENTATION TEMPLATE — component showcase
+# QUARTO PRESENTATION TEMPLATE — component showcase
 # Delete the example slides and write your own. Everything below is a live
 # demonstration of the styling vocabulary. See docs/STYLE_GUIDE.md for the full
 # reference. Press 'S' during the talk for the speaker-notes view.
