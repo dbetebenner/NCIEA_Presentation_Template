@@ -1,4 +1,4 @@
-# NCIEA Presentation Template
+# Quarto Presentation Template
 
 The one home of the presentation theme for Damian Betebenner's Quarto +
 Reveal.js decks. The theme ships as a Quarto format extension, **dataimago
@@ -10,7 +10,7 @@ component.
 ## Start a new deck
 
 ```bash
-quarto use template dbetebenner/NCIEA_Presentation_Template
+quarto use template dbetebenner/Quarto_Presentation_Template
 ```
 
 Run it in an empty directory (in a non-empty one Quarto asks for a new directory
@@ -36,7 +36,7 @@ the placeholders for you:
 From the deck's directory:
 
 ```bash
-quarto add dbetebenner/NCIEA_Presentation_Template
+quarto add dbetebenner/Quarto_Presentation_Template
 ```
 
 Then, in the deck's front matter:
@@ -80,7 +80,7 @@ extensions at that depth; an owner folder makes it install nothing.
 ## Update
 
 ```bash
-quarto update extension dbetebenner/NCIEA_Presentation_Template
+quarto update extension dbetebenner/Quarto_Presentation_Template
 ```
 
 Re-render afterwards. A vendored copy is updated by replacing its
