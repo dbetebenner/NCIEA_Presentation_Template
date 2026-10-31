@@ -1,0 +1,13 @@
+# Quarto build artifacts
+/.quarto/
+*_files/
+/_output/
+/_freeze/
+
+# Rendered decks (regenerate with ./render.sh)
+/*.html
+!examples/*.html
+
+# OS cruft
+.DS_Store
+Thumbs.db
